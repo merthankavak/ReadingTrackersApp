@@ -1,5 +1,5 @@
 
-# Reading Trackers (work-in-progress 👷🔧️⛏)
+# Reading Trackers
 
 Reading Trackers is an android application built with Jetpack Compose. It uses the Google Books API for book data. In the application, you can search for books, view book information, review books and track your reading status.
 
